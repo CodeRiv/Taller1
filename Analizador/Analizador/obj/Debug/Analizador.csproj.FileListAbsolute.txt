@@ -1,0 +1,36 @@
+C:\Users\RobinHood\Desktop\Analizador\Analizador\bin\Debug\Analizador.exe.config
+C:\Users\RobinHood\Desktop\Analizador\Analizador\bin\Debug\Analizador.exe
+C:\Users\RobinHood\Desktop\Analizador\Analizador\bin\Debug\Analizador.pdb
+C:\Users\RobinHood\Desktop\Analizador\Analizador\obj\Debug\Analizador.csprojResolveAssemblyReference.cache
+C:\Users\RobinHood\Desktop\Analizador\Analizador\obj\Debug\Analizador.frmPrincipal.resources
+C:\Users\RobinHood\Desktop\Analizador\Analizador\obj\Debug\Analizador.Properties.Resources.resources
+C:\Users\RobinHood\Desktop\Analizador\Analizador\obj\Debug\Analizador.csproj.GenerateResource.Cache
+C:\Users\RobinHood\Desktop\Analizador\Analizador\obj\Debug\Analizador.exe
+C:\Users\RobinHood\Desktop\Analizador\Analizador\obj\Debug\Analizador.pdb
+C:\Users\RobinHood\Downloads\Analizador (1)\Analizador\Analizador\bin\Debug\Analizador.exe.config
+C:\Users\RobinHood\Downloads\Analizador (1)\Analizador\Analizador\obj\Debug\Analizador.exe
+C:\Users\RobinHood\Downloads\Analizador (1)\Analizador\Analizador\obj\Debug\Analizador.pdb
+C:\Users\RobinHood\Downloads\Analizador (1)\Analizador\Analizador\bin\Debug\Analizador.exe
+C:\Users\RobinHood\Downloads\Analizador (1)\Analizador\Analizador\bin\Debug\Analizador.pdb
+C:\Users\RobinHood\Downloads\Analizador (1)\Analizador\Analizador\obj\Debug\Analizador.csprojResolveAssemblyReference.cache
+C:\Users\RobinHood\Downloads\Analizador (1)\Analizador\Analizador\obj\Debug\Analizador.frmPrincipal.resources
+C:\Users\RobinHood\Downloads\Analizador (1)\Analizador\Analizador\obj\Debug\Analizador.Properties.Resources.resources
+C:\Users\RobinHood\Downloads\Analizador (1)\Analizador\Analizador\obj\Debug\Analizador.csproj.GenerateResource.Cache
+C:\Users\Armando\Desktop\Analizador\Analizador\bin\Debug\Analizador.exe.config
+C:\Users\Armando\Desktop\Analizador\Analizador\obj\Debug\Analizador.exe
+C:\Users\Armando\Desktop\Analizador\Analizador\obj\Debug\Analizador.pdb
+C:\Users\Armando\Desktop\Analizador\Analizador\bin\Debug\Analizador.exe
+C:\Users\Armando\Desktop\Analizador\Analizador\bin\Debug\Analizador.pdb
+C:\Users\Armando\Desktop\Analizador\Analizador\obj\Debug\Analizador.csprojResolveAssemblyReference.cache
+C:\Users\Armando\Desktop\Analizador\Analizador\obj\Debug\Analizador.frmPrincipal.resources
+C:\Users\Armando\Desktop\Analizador\Analizador\obj\Debug\Analizador.Properties.Resources.resources
+C:\Users\Armando\Desktop\Analizador\Analizador\obj\Debug\Analizador.csproj.GenerateResource.Cache
+C:\Users\thebr\Downloads\Analizador\Analizador\Analizador\bin\Debug\Analizador.exe.config
+C:\Users\thebr\Downloads\Analizador\Analizador\Analizador\bin\Debug\Analizador.exe
+C:\Users\thebr\Downloads\Analizador\Analizador\Analizador\bin\Debug\Analizador.pdb
+C:\Users\thebr\Downloads\Analizador\Analizador\Analizador\obj\Debug\Analizador.csprojAssemblyReference.cache
+C:\Users\thebr\Downloads\Analizador\Analizador\Analizador\obj\Debug\Analizador.Properties.Resources.resources
+C:\Users\thebr\Downloads\Analizador\Analizador\Analizador\obj\Debug\Analizador.csproj.GenerateResource.cache
+C:\Users\thebr\Downloads\Analizador\Analizador\Analizador\obj\Debug\Analizador.exe
+C:\Users\thebr\Downloads\Analizador\Analizador\Analizador\obj\Debug\Analizador.pdb
+C:\Users\thebr\Downloads\Analizador\Analizador\Analizador\obj\Debug\Analizador.Analizador.resources
